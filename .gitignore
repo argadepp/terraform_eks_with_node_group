@@ -1,0 +1,13 @@
+*terraform.lock*
+environment
+terraform.tfstate
+terraform.tfstate.d**
+terraform-provider*
+.terraform**
+.terraform/**
+**/.env
+go.mod
+go.sum
+.terraform/
+vault-aux/istio*/**
+**/.DS_Store
